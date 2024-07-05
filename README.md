@@ -1,19 +1,21 @@
-- 👋 Hi, I’m @TheDegenerateDev5150
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm TheDegenerateDev5150! 👋
 
-<!---
-TheDegenerateDev5150/TheDegenerateDev5150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes...
----> 🖕🏼®
-®🔏
+## About Me
+I am passionate about software development and financial planning, blending my expertise to create innovative solutions at the intersection of technology and finance. Currently, I specialize in managing multi-million-dollar funds and advising on global investments.
 
+## Skills
+- Python, JavaScript, HTML/CSS
+- Financial Modeling
+- Retirement Planning
+- Tax Management
 
+## Interests
+I enjoy cash and traveling around the world! ✈️<!--💲🧧 🪙 🛜 -->🛫
 
+## Fun Fact
+I often find myself saying, "I don't know what I'm doing!" 😄
 
-
+## Contact Me
 
 
 
